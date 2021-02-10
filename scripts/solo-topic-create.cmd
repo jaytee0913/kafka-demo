@@ -1,0 +1,1 @@
+C:\jeromy\kafka\bin\windows\kafka-topics.bat --create --zookeeper localhost:2181 --topic test_topic --partitions 5 --replication-factor 1

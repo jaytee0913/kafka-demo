@@ -1,0 +1,1 @@
+C:\jeromy\kafka\bin\windows\kafka-server-start.bat C:\jeromy\kafka\config\server-1.properties
